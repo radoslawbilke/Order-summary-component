@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [HERE](https://radoslawlagan.github.io/Order-summary-component/)
+- Live Site URL: [HERE](https://radoslawbilke.github.io/Order-summary-component/)
 
 ## My process
 
